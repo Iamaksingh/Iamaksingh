@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Aditya Kumar Singh
+- 👀 I’m interested in Programming, problem solving.
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me -> https://iamaksingh.github.io/Portfolio/
