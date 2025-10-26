@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Aditya Kumar Singh
 
-<!--
-**Iamaksingh/Iamaksingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-stack Web Developer | 🧠 AI + MERN enthusiast  
+🎯 Passionate about building practical, scalable applications
 
-Here are some ideas to get you started:
+### 🚀 Projects
+- **[CrowdMind](https://github.com/adityaksingh/crowdmind)** — AI-powered collaborative problem-solving platform helps reduce/avoid bias and toxic communications over internet. 
+- **[JobTrackr](https://github.com/adityaksingh/jobtrackr)** — Full-stack job tracking app with authentication.
+- **[FullStack Authentication](https://github.com/Iamaksingh/FullStack-Authentication)** - A production ready authentication system with email automations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+**Frontend:** React.js, HTML, CSS, JS  
+**Backend:** Node.js, Express.js, MongoDB  
+**Other:** Postman, Git, REST APIs  
+
+### 🌱 Currently Learning
+React + Backend Scaling (middleware, authentication, deployment) , Docker 
+
+### 📫 Let's Connect!
+[LinkedIn](https://www.linkedin.com/in/aditya-kumar-singh-906994320) | [LeetCode](https://leetcode.com/u/iamaksingh/)
