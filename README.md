@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭I’m currently working on : CrowdMind<br>🌱 I’m currently learning AWS<br>👨‍💻 All of my projects are available at [![Portfolio](https://img.shields.io/badge/Portfolio-%238A2BE2.svg?logo=firefox&logoColor=white)](https://iamaksinghportfolio.netlify.app/)<br>📄 Know about my experiences resume [![Resume](https://img.shields.io/badge/Resume-2ecc71.svg?logo=safari&logoColor=white)](https://drive.google.com/file/d/1hXmqEdFmdSdObKMWB1v4_529RxJ-nuiH/view?usp=sharing)
+🔭I’m currently working on : CrowdMind<br>🌱 I’m currently learning AWS<br>👨‍💻 All of my work is available at [![Portfolio](https://img.shields.io/badge/Portfolio-%238A2BE2.svg?logo=firefox&logoColor=white)](https://iamaksinghportfolio.netlify.app/)<br>📄 resume [![Resume](https://img.shields.io/badge/Resume-2ecc71.svg?logo=safari&logoColor=white)](https://drive.google.com/file/d/1hXmqEdFmdSdObKMWB1v4_529RxJ-nuiH/view?usp=sharing)
 
 
 ## 🌐 Socials:
