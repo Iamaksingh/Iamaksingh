@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭I’m currently working on : [![LinkTracker](https://img.shields.io/badge/ClickFlow-%230077B5.svg?logo=linkedin&logoColor=white)](https://github.com/Iamaksingh/ClickFlow) <br>🌱 I’m currently learning AWS<br>👨‍💻 All of my work is available at [![Portfolio](https://img.shields.io/badge/Portfolio-%238A2BE2.svg?logo=firefox&logoColor=white)](https://iamaksinghportfolio.netlify.app/)<br>📄 resume [![Resume](https://img.shields.io/badge/Resume-2ecc71.svg?logo=safari&logoColor=white)](https://drive.google.com/file/d/1hXmqEdFmdSdObKMWB1v4_529RxJ-nuiH/view?usp=sharing)
+🔭I’m currently working on : [![LinkTracker](https://img.shields.io/badge/ClickFlow-%230077B5.svg?logo=linkedin&logoColor=white)](https://github.com/Iamaksingh/ClickFlow) <br>🌱 I’m currently learning AWS<br>👨‍💻 All of my work is available at [![Portfolio](https://img.shields.io/badge/Portfolio-%238A2BE2.svg?logo=firefox&logoColor=white)](https://iamaksinghportfolio.netlify.app/)<br>📄 resume [![Resume](https://img.shields.io/badge/Resume-2ecc71.svg?logo=safari&logoColor=white)](https://drive.google.com/file/d/15CQ9pFcwjwOwugQcTj4ucDRTCghMgpUN/view?usp=sharing)
 
 
 ## 🌐 Socials:
